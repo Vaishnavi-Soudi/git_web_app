@@ -1,1 +1,2 @@
-This is the first line in gitupdating the second line
+This is the first line in git 
+updating the second line
